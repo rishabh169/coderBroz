@@ -1,0 +1,7 @@
+.Roadmap {
+  /* max-height: 200px; */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: stretch;
+}

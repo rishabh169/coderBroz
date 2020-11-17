@@ -1,0 +1,14 @@
+.box{
+  width:70%;
+  background:#FFF;
+  margin:16px auto;
+  display: flex;
+  justify-content: space-between;
+  padding: 8px;
+}
+
+.effect1{
+  -webkit-box-shadow: 0 5px 6px -4px #777;
+     -moz-box-shadow: 0 5px 6px -4px #777;
+          box-shadow: 0 5px 6px -4px #777;
+  }
